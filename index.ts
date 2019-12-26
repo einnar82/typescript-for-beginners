@@ -1,3 +1,4 @@
+//data types
 const a: number = 10;
 const bool: boolean = true;
 const numbers: number[] = [1, 2, 3];

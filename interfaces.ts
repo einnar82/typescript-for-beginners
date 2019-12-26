@@ -18,6 +18,7 @@ class Programmer implements Person {
   };
 }
 
+//duck typing
 let programmer: Person = new Programmer('Rannie', 'Ollit');
 
 

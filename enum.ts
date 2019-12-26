@@ -1,3 +1,4 @@
+// for constant declaration
 enum Status {
   FAILED = 0,
   SUCCESS = 1
